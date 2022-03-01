@@ -16,7 +16,7 @@ jobs:
     #     mongodb-version: ['4','5']
     # steps:
     #   - name: Git checkout
-    #     uses: actions
+    #     uses: actions/@2
 
     steps:
       - uses: actions/checkout@v2
